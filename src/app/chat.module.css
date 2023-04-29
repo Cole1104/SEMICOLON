@@ -1,0 +1,23 @@
+.chatNavi{
+    height: 8vh;
+    
+}
+.chatBody{
+    height: 88vh;
+    max-height: 88vh;
+    overflow: scroll;
+    padding-bottom: 15vh;
+}
+.chatInput{
+   height: 4vh;
+}
+.excludedButton{
+    height: 13vh;
+    padding: 3vh;
+    max-width: 60vw;
+    min-width: 20rem;
+    border-radius: 2rem;
+    margin-bottom: 8vh;
+    margin-left: 2vh;
+    border: 2px solid black;
+}
